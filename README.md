@@ -1,6 +1,6 @@
 # About
 
-A video game in Java directly inspired by the board game "Labyrinth"
+A video game in Java directly inspired by the board game "Labyrinthe"
 
 # If you find this project useful, please consider supporting its development:
 
